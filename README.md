@@ -2,7 +2,7 @@
 
 🎓 Student at Institut Teknologi Sumatera (ITERA)  
 💻 Passionate about Machine Learning & Web Development  
-🐍 Tech stack: Python | PyTorch | React | Tailwind | Node.js  
+🐍 Tech stack: Python | PyTorch | React | Tailwind | Node.js | GDScript
 
 ---
 
