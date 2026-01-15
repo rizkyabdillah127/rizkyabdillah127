@@ -13,13 +13,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkyabdillah127&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyabdillah127&layout=compact&theme=tokyonight)
-
----
-
 ### ✉️ Reach Me
 📧 rizky.122140127@student.itera.ac.id  
 🔗[Instagram](https://www.instagram.com/ykzir___?igsh=MWhyNTBybXFqNjlwOA==)
